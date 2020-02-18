@@ -23,7 +23,7 @@ button {
 body {
     background-color: #2E2E2E;
     color: #F8FBEF;
-    max-width: 700px;
+    max-width: 786px;
     margin: auto;
 }
 
@@ -66,8 +66,8 @@ button:focus {
 }
 
 #portfolio-pic {
-    height: 150px;
-    width: 150px;
+    height: 170px;
+    width: 170px;
 }
 
 nav a:hover {
@@ -81,11 +81,11 @@ nav a:hover {
 }
 
 #contact-form {
-    margin-left: 120px;
+    margin-left: 90px;
 }
 
 #contact-btn {
-    margin-left: 42px;
+    margin-left: 60px;
 }
 
 h5 {
@@ -95,4 +95,21 @@ h5 {
 h5:hover {
     color: #FFFF00;
     text-decoration: none;
+}
+
+
+@media screen and (max-width: 640px) {
+
+    nav, h1, #lead, .info-buttons, #portfolio-display {
+        width: 100%;
+        text-align: center;
+    }
+
+    .work {
+        width: 50%;
+    }
+}
+
+@media screen and (max-width: 507px) {
+
 }

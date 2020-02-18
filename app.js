@@ -36,7 +36,7 @@ $(document).ready(function() {
     });
 
     $("#resume").on("click", function() {
-        $("#display").html("Hello what")
+        $("#display").html("<img src='resume.pdf' alt='My Resume'>")
     });
 
     $("#contact").on("click", function() {
@@ -44,12 +44,12 @@ $(document).ready(function() {
             "<form id='contact-form'>" + 
                 "<ul id='cform'><h4>Get in Touch</h5>" + 
                 "<li>" + 
-                    "<input type='text' class='contact-input' id='name' name='name' placeholder='     name' required='required'>" + 
+                    "<input type='text' size='35' class='contact-input' id='name' name='name' placeholder='     name' required='required'>" + 
                 "</li>" + 
                 "<li>" + 
-                    "<input type='email' class='contact-input' id='email' name='email' placeholder='     email' required='required'>" + 
+                    "<input type='email' size='35' class='contact-input' id='email' name='email' placeholder='     email' required='required'>" + 
                 "</li>" + 
-                    "<textarea rows='6' id='message' class='contact-input' name='message' placeholder='     message' required='required'></textarea>" + 
+                    "<textarea rows='6' cols='35' id='message' class='contact-input' name='message' placeholder='     message' required='required'></textarea>" + 
                 "</ul>" + 
                 "<input type='submit' id='contact-btn' class='contact-input' value='reset'>" +
                 "<input type='submit' id='contact-btn' class='contact-input' value='send'>" + 
