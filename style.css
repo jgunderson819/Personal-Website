@@ -1,0 +1,98 @@
+header {
+    display: inline;
+}
+
+nav {
+    float: right;
+  }
+
+nav a {
+    display: inline-block;
+    margin: 10px;
+    color: #FFFF00;
+}
+
+button {
+    height: 100px;
+    width: 100px;
+    color: #F8FBEF;
+    border: none;
+    margin: 10px;
+}
+
+body {
+    background-color: #2E2E2E;
+    color: #F8FBEF;
+    max-width: 700px;
+    margin: auto;
+}
+
+p {
+    color: #F8FBEF;
+}
+
+#about {
+    background-color: #0174DF;
+}
+#portfolio {
+    background-color: #01DF74;
+}
+#resume {
+    background-color: #FE9A2E;
+}
+#contact {
+    background-color: #B40404;
+}
+
+#display {
+    margin-top: 20px;
+}
+
+#aboutimg {
+    height: 250px;
+    width: 179px;
+    float: left;
+    margin-right: 15px;
+}
+
+button:focus {
+  outline-color: whitesmoke;
+  box-shadow: whitesmoke;
+}
+
+.work {
+    width: 33%;
+    float: left;
+}
+
+#portfolio-pic {
+    height: 150px;
+    width: 150px;
+}
+
+nav a:hover {
+    color: #FFFF00;
+}
+
+.contact-input {
+    margin-top: 10px;
+    background: transparent;
+    color: whitesmoke;
+}
+
+#contact-form {
+    margin-left: 70px;
+}
+
+#contact-btn {
+    margin-left: 40px;
+}
+
+h5 {
+    color: #FFFF00;
+}
+
+h5:hover {
+    color: #FFFF00;
+    text-decoration: none;
+}
