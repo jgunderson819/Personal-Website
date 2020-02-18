@@ -97,6 +97,10 @@ h5:hover {
     text-decoration: none;
 }
 
+#resume-pic {
+    width: 650px;
+}
+
 
 @media screen and (max-width: 640px) {
 

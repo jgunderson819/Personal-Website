@@ -36,7 +36,7 @@ $(document).ready(function() {
     });
 
     $("#resume").on("click", function() {
-        $("#display").html("<img src='resume.pdf' alt='My Resume'>")
+        $("#display").html("<img id='resume-pic' src='Resume.jpg' alt='My Resume'>")
     });
 
     $("#contact").on("click", function() {
