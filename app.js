@@ -13,23 +13,23 @@ $(document).ready(function() {
         $("#display").html(
             "<div id=portfolio-display>" + 
                 "<div class='work'>" + 
-                    "<img id='portfolio-pic' src='beer-pic.jpeg' alt='BrewGo'>" + 
-                    "<a href='https://jscottusf.github.io/brewgo/'><h5>BrewGo</h3></a>" + 
+                    "<a href='https://jscottusf.github.io/brewgo/'><img id='portfolio-pic' src='beer-pic.jpeg' alt='BrewGo'>" + 
+                    "<h5>BrewGo</h5></a>" + 
                 "</div>" + 
 
                 "<div class= 'work'>" + 
-                    "<img id='portfolio-pic' src='scrabble.jpeg' alt='Word Guess'>" + 
-                    "<a href='https://alanford9.github.io/Psychic-Game/'><h5>Psychic Game</h3></a>" + 
+                    "<a href='https://alanford9.github.io/Psychic-Game/'><img id='portfolio-pic' src='scrabble.jpeg' alt='Word Guess'>" + 
+                    "<h5>Psychic Game</h5></a>" + 
                 "</div>" + 
 
                 "<div class='work'>" + 
-                    "<img id='portfolio-pic' src='crystal.jpeg' alt='Crystal Collector'>" + 
-                    "<a href='https://alanford9.github.io/Unit-4-game/'><h5>Crystal Collector</h3></a>" + 
+                    "<a href='https://alanford9.github.io/Unit-4-game/'><img id='portfolio-pic' src='crystal.jpeg' alt='Crystal Collector'>" + 
+                    "<h5>Crystal Collector</h5></a>" + 
                 "</div>" + 
 
                 "<div class='work'>" + 
-                    "<img id='portfolio-pic' src='animals.jpeg' alt='Animal Gifs'>" + 
-                    "<a href='https://alanford9.github.io/Giphy-API/'><h5>Animal Gifs!</h3></a>" + 
+                    "<a href='https://alanford9.github.io/Giphy-API/'><img id='portfolio-pic' src='animals.jpeg' alt='Animal Gifs'>" + 
+                    "<h5>Animal Gifs!</h5></a>" + 
                 "</div>" + 
             "</div>"
         )
@@ -49,9 +49,7 @@ $(document).ready(function() {
                 "<li>" + 
                     "<input type='email' class='contact-input' id='email' name='email' placeholder='     email' required='required'>" + 
                 "</li>" + 
-                "<li>" + 
                     "<textarea rows='6' id='message' class='contact-input' name='message' placeholder='     message' required='required'></textarea>" + 
-                "</li>" + 
                 "</ul>" + 
                 "<input type='submit' id='contact-btn' class='contact-input' value='reset'>" +
                 "<input type='submit' id='contact-btn' class='contact-input' value='send'>" + 
