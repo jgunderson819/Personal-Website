@@ -31,7 +31,12 @@ $(document).ready(function() {
                     "<a href='https://alanford9.github.io/Giphy-API/'><img id='portfolio-pic' src='animals.jpeg' alt='Animal Gifs'>" + 
                     "<h5>Animal Gifs!</h5></a>" + 
                 "</div>" + 
-            "</div>"
+
+                "<div class='work'>" + 
+                    "<a href='https://sheltered-plains-62734.herokuapp.com/'><img id='portfolio-pic' src='ffinder.png' alt='Friend Finder'>" + 
+                    "<h5>Friend Finder</h5></a>" + 
+            "</div>" + 
+        "</div>"
         )
     });
 
