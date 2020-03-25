@@ -35,7 +35,12 @@ $(document).ready(function() {
                 "<div class='work'>" + 
                     "<a href='https://sheltered-plains-62734.herokuapp.com/'><img id='portfolio-pic' src='ffinder.png' alt='Friend Finder'>" + 
                     "<h5>Friend Finder</h5></a>" + 
-            "</div>" + 
+                "</div>" + 
+
+                "<div class='work'>" + 
+                    "<a href='https://dry-scrubland-42380.herokuapp.com/'><img id='portfolio-pic' src='burger.jpg' alt='Burgers'>" + 
+                    "<h5>Burgers</h5></a>" + 
+             "</div>" + 
         "</div>"
         )
     });
