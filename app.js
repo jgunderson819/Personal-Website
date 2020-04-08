@@ -45,7 +45,9 @@ $(document).ready(function () {
   });
 
   $("#resume").on("click", function () {
-    $("#display").html("<img id='resume-pic' src='' alt='My Resume'>");
+    $("#display").html(
+      "<img id='Jeff_Gunderson_Resume.PDF' src='' alt='My Resume'>"
+    );
   });
 
   $("#contact").on("click", function () {
