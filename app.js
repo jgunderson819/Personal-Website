@@ -13,7 +13,7 @@ $(document).ready(function () {
       "<div id=portfolio-display>" +
         "<div class='work'>" +
         "<a href='https://mlipphardt.github.io/Fanfixx/'><img id='portfolio-pic' src='Fanfixx.JPG' alt='FANFIXX'>" +
-        "<h5>BrewGo</h5></a>" +
+        "<h5>FanFixx</h5></a>" +
         "</div>" +
         "<div class= 'work'>" +
         "<a href='https://github.com/jgunderson819/The-Psychic-Game'><img id='portfolio-pic' src='psychic2.jfif' alt='Psychic Game'>" +
@@ -25,7 +25,7 @@ $(document).ready(function () {
         "</div>" +
         "<div class='work'>" +
         "<a href='https://github.com/jgunderson819/bamazon'><img id='portfolio-pic' src='Bamazon.JPG' alt='Bamazon'>" +
-        "<h5>Animal Gifs!</h5></a>" +
+        "<h5>Bamazon!</h5></a>" +
         "<div class='work'>" +
         "<a href='https://secure-fjord-37556.herokuapp.com/'><img id='portfolio-pic' src='burger.jpg' alt='Burgers'>" +
         "<h5>Burgers</h5></a>" +
@@ -53,7 +53,8 @@ $(document).ready(function () {
 
   $("#resume").on("click", function () {
     $("#display").html(
-      "<img id='Jeff_Gunderson_Resume.PDF' src='' alt='My Resume'>"
+      "<img id='resume' src='Resume-page1.JPG' alt='My Resume'>" +
+        "<img id='resume' src='Resume-page2.JPG' alt='My Resume'>"
     );
   });
 
