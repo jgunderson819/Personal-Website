@@ -40,6 +40,18 @@ $(document).ready(function () {
         "<a href='https://pure-brook-35480.herokuapp.com/login'><img id='portfolio-pic' src='sdn.JPG' alt='Social Distance Network'>" +
         "<h5>Social Distance Network</h5></a>" +
         "</div>" +
+        "</div>" +
+        "</div>" +
+        "<div class='work'>" +
+        "<a href='https://github.com/jgunderson819/liri-node-app2'><img id='portfolio-pic' src='liri.JPG' alt='Liri'>" +
+        "<h5>Liri node app</h5></a>" +
+        "</div>" +
+        "</div>" +
+        "</div>" +
+        "<div class='work'>" +
+        "<a href='https://github.com/jgunderson819/Constructor-Word-Guess'><img id='portfolio-pic' src='Constructor Word Guess.jpg' alt='COnstructor Word Guess'>" +
+        "<h5>Liri node app</h5></a>" +
+        "</div>" +
         "</div>"
     );
   });
