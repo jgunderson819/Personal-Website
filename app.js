@@ -26,11 +26,6 @@ $(document).ready(function () {
         "<div class='work'>" +
         "<a href='https://github.com/jgunderson819/bamazon'><img id='portfolio-pic' src='Bamazon.JPG' alt='Bamazon'>" +
         "<h5>Animal Gifs!</h5></a>" +
-        "</div>" +
-        "<div class='work'>" +
-        "<a href='https://quiet-caverns-33064.herokuapp.com/'><img id='portfolio-pic' src='friendfinder.JPG' alt='Friend Finder'>" +
-        "<h5>Friend Finder</h5></a>" +
-        "</div>" +
         "<div class='work'>" +
         "<a href='https://secure-fjord-37556.herokuapp.com/'><img id='portfolio-pic' src='burger.jpg' alt='Burgers'>" +
         "<h5>Burgers</h5></a>" +
@@ -50,7 +45,7 @@ $(document).ready(function () {
         "</div>" +
         "<div class='work'>" +
         "<a href='https://github.com/jgunderson819/Constructor-Word-Guess'><img id='portfolio-pic' src='Constructor Word Guess.jpg' alt='COnstructor Word Guess'>" +
-        "<h5>Liri node app</h5></a>" +
+        "<h5>Constructor Word Guess</h5></a>" +
         "</div>" +
         "</div>"
     );
