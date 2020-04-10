@@ -14,7 +14,7 @@ $(document).ready(function () {
         "<div class='work'>" +
         "<a href='https://mlipphardt.github.io/Fanfixx/'><img id='portfolio-pic' src='Fanfixx.JPG' alt='FANFIXX'>" +
         "<h5>FanFixx</h5></a>" +
-        '<a href="https://github.com/Mlipphardt/Fanfixx">Fanfixx Github</a>' +
+        '<a href="https://github.com/jgunderson819/Fanfixx2">Fanfixx Github</a>' +
         "</div>" +
         "<a href='https://jgunderson819.github.io/The-Psychic-Game/'><img id='portfolio-pic' src='psychic2.jfif' alt='Psychic Game'>" +
         "<h5>Psychic Game</h5></a>" +
@@ -38,7 +38,7 @@ $(document).ready(function () {
         "<div class='work'>" +
         "<a href='https://pure-brook-35480.herokuapp.com/login'><img id='portfolio-pic' src='sdn.JPG' alt='Social Distance Network'>" +
         "<h5>Social Distance Network</h5></a>" +
-        "<a href='https://github.com/AlanFord9/project-2'>Social Distance Network Github</a>" +
+        "<a href='https://github.com/jgunderson819/sdn'>Social Distance Network Github</a>" +
         "</div>" +
         "</div>" +
         "</div>" +
