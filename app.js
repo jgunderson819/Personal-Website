@@ -14,38 +14,45 @@ $(document).ready(function () {
         "<div class='work'>" +
         "<a href='https://mlipphardt.github.io/Fanfixx/'><img id='portfolio-pic' src='Fanfixx.JPG' alt='FANFIXX'>" +
         "<h5>FanFixx</h5></a>" +
+        '<a href="https://github.com/Mlipphardt/Fanfixx">Fanfixx Github</a>' +
         "</div>" +
-        "<div class= 'work'>" +
-        "<a href='https://github.com/jgunderson819/The-Psychic-Game'><img id='portfolio-pic' src='psychic2.jfif' alt='Psychic Game'>" +
+        "<a href='https://jgunderson819.github.io/The-Psychic-Game/'><img id='portfolio-pic' src='psychic2.jfif' alt='Psychic Game'>" +
         "<h5>Psychic Game</h5></a>" +
+        '<a href="https://github.com/jgunderson819/The-Psychic-Game/">Psychic Github</a>' +
         "</div>" +
         "<div class='work'>" +
         "<a href='https://jgunderson819.github.io/Unit-4-Game/'><img id='portfolio-pic' src='crystal.jpeg' alt='Crystal Collector'>" +
-        "<h5>Crystal Collector</h5></a>" +
+        "<h5>Crystal Collector</h5>" +
+        '<a href="https://github.com/jgunderson819/Unit-4-Game">Crystal Col Github</a>' +
         "</div>" +
         "<div class='work'>" +
         "<a href='https://github.com/jgunderson819/bamazon'><img id='portfolio-pic' src='Bamazon.JPG' alt='Bamazon'>" +
         "<h5>Bamazon!</h5></a>" +
+        "<a href='https://github.com/jgunderson819/bamazon'>Bamazon Github</a>" +
         "<div class='work'>" +
-        "<a href='https://secure-fjord-37556.herokuapp.com/'><img id='portfolio-pic' src='burger.jpg' alt='Burgers'>" +
-        "<h5>Burgers</h5></a>" +
+        '<a href="https://secure-fjord-37556.herokuapp.com/"><img id="portfolio-pic" src="burger.jpg" alt="Burgers">' +
+        "<h5>Burger</h5>" +
+        "<a href='https:/github.com/jgunderson819/burger'>Burger Github</a>" +
         "</div>" +
         "</div>" +
         "<div class='work'>" +
         "<a href='https://pure-brook-35480.herokuapp.com/login'><img id='portfolio-pic' src='sdn.JPG' alt='Social Distance Network'>" +
         "<h5>Social Distance Network</h5></a>" +
+        "<a href='https://github.com/AlanFord9/project-2'>Social Distance Network Github</a>" +
         "</div>" +
         "</div>" +
         "</div>" +
         "<div class='work'>" +
         "<a href='https://github.com/jgunderson819/liri-node-app2'><img id='portfolio-pic' src='liri.JPG' alt='Liri'>" +
         "<h5>Liri node app</h5></a>" +
+        "<a href='https://github.com/jgunderson819/liri-node-app2'>Liri Github</a>" +
         "</div>" +
         "</div>" +
         "</div>" +
         "<div class='work'>" +
         "<a href='https://github.com/jgunderson819/Constructor-Word-Guess'><img id='portfolio-pic' src='Constructor Word Guess.jpg' alt='COnstructor Word Guess'>" +
         "<h5>Constructor Word Guess</h5></a>" +
+        "<a href='https://github.com/jgunderson819/Constructor-Word-Guess'>CWG Github</a>" +
         "</div>" +
         "</div>"
     );
@@ -54,7 +61,7 @@ $(document).ready(function () {
   $("#resume").on("click", function () {
     $("#display").html(
       "<img id='resume' src='Resume3.JPG' alt='My Resume'>" +
-        "<img id='resume' src='Resume4.JPG.JPG' alt='My Resume'>"
+        "<img id='resume' src='Resume4.JPG' alt='My Resume'>"
     );
   });
 

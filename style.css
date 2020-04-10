@@ -4,7 +4,7 @@ header {
 
 nav {
     float: right;
-  }
+}
 
 nav a {
     display: inline-block;
@@ -34,12 +34,15 @@ p {
 #about {
     background-color: #0174DF;
 }
+
 #portfolio {
     background-color: #01DF74;
 }
+
 #resume {
     background-color: #FE9A2E;
 }
+
 #contact {
     background-color: #B40404;
 }
@@ -52,16 +55,16 @@ p {
     height: 250px;
     width: 179px;
     float: left;
-    margin-right: 15px;
+    margin-right: 10px;
 }
 
 button:focus {
-  outline-color: whitesmoke;
-  box-shadow: whitesmoke;
+    outline-color: whitesmoke;
+    box-shadow: whitesmoke;
 }
 
 .work {
-    width: 33%;
+    width: 31%;
     float: left;
 }
 
@@ -101,19 +104,14 @@ h5:hover {
     width: 650px;
 }
 
-
 @media screen and (max-width: 640px) {
-
     nav, h1, #lead, .info-buttons, #portfolio-display {
         width: 100%;
         text-align: center;
     }
-
     .work {
         width: 50%;
     }
 }
 
-@media screen and (max-width: 507px) {
-
-}
+@media screen and (max-width: 507px) {}
