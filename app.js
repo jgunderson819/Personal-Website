@@ -46,6 +46,11 @@ $(document).ready(function () {
         "<h5>Constructor Word Guess</h5></a>" +
         "<a href='https://github.com/jgunderson819/Constructor-Word-Guess'>CWG Github</a>" +
         "</div>" +
+        "<div class='work'>" +
+        "<a href='https://thawing-ridge-21750.herokuapp.com/readArticle/5e9cb56b4e15ec001783af18'><img id='portfolio-pic' src='scraped-news.JPG' alt='Scraped News'>" +
+        "<h5>Your Scraped News</h5></a>" +
+        "<a href='https://github.com/jgunderson819/Scrape-news'>Scraped News Github</a>" +
+        "</div>" +
         "</div>"
     );
   });
