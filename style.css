@@ -27,6 +27,11 @@ body {
     margin: auto;
 }
 
+#abouting {
+    height: 300px;
+    width: 700px;
+}
+
 p {
     color: #F8FBEF;
 }
@@ -53,7 +58,7 @@ p {
 
 #aboutimg {
     height: 250px;
-    width: 179px;
+    width: 350px;
     float: left;
     margin-right: 10px;
 }
@@ -66,6 +71,7 @@ button:focus {
 .work {
     width: 31%;
     float: left;
+    margin-bottom: 20px;
 }
 
 #portfolio-pic {

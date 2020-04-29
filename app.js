@@ -53,7 +53,7 @@ $(document).ready(function () {
         "</div>" +
         "<div class='work'>" +
         "<a href='https://jgunderson819.github.io/Clicky-Game/'><img id='portfolio-pic' src='ClickGame.JPG' alt='Clicky Game'>" +
-        "<h5>Your Scraped News</h5></a>" +
+        "<h5>Clicky Game</h5></a>" +
         "<a href='https://github.com/jgunderson819/Clicky-Game'>Clicky Game Github</a>" +
         "</div>" +
         "</div>"
