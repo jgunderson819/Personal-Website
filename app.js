@@ -62,7 +62,7 @@ $(document).ready(function () {
 
   $("#resume").on("click", function () {
     $("#display").html(
-      "<img id='resume' src='resume3.JPG' alt='My Resume'>" +
+      "<img id='resume' src='Resume-page1.JPG' alt='My Resume'>" +
         "<img id='resume' src='resume4.JPG' alt='My Resume'>"
     );
   });
