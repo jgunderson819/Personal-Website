@@ -43,7 +43,7 @@ $(document).ready(function () {
         "<a href='https://github.com/jgunderson819/liri-node-app2'>Liri Github</a>" +
         "</div>" +
         "<div class='work'>" +
-        "<a href='https://state-capital-trivia-game.herokuapp.com/'><img id='portfolio-pic' src='Trivia Game.jpg' alt='Trivia Game'>" +
+        "<a href='https://state-capital-trivia-game.herokuapp.com/'><img id='portfolio-pic' src='Triviagame.JPG' alt='Trivia Game'>" +
         "<h5>Trivia Game</h5></a>" +
         "<a href='https://github.com/jgunderson819/TriviaGame'>Trivia Game Github</a>" +
         "</div>" +
