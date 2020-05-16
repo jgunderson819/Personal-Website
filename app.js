@@ -47,6 +47,11 @@ $(document).ready(function () {
         "<a href='https://github.com/jgunderson819/TriviaGame'>Trivia Game Github</a>" +
         "</div>" +
         "<div class='work'>" +
+        "<a href='https://secure-fjord-37556.herokuapp.com//'><img id='portfolio-pic' src='burger2.JPG' alt='Burger'>" +
+        "<h5>Trivia Game</h5></a>" +
+        "<a href='https://github.com/jgunderson819/burger'>Burger Github</a>" +
+        "</div>" +
+        "<div class='work'>" +
         "<a href='https://github.com/jgunderson819/Constructor-Word-Guess'><img id='portfolio-pic' src='Constructor Word Guess.jpg' alt='COnstructor Word Guess'>" +
         "<h5>Constructor Word Guess</h5></a>" +
         "<a href='https://github.com/jgunderson819/Constructor-Word-Guess'>CWG Github</a>" +
