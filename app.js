@@ -48,7 +48,7 @@ $(document).ready(function () {
         "</div>" +
         "<div class='work'>" +
         "<a href='https://secure-fjord-37556.herokuapp.com//'><img id='portfolio-pic' src='burger2.JPG' alt='Burger'>" +
-        "<h5>Trivia Game</h5></a>" +
+        "<h5>Burger</h5></a>" +
         "<a href='https://github.com/jgunderson819/burger'>Burger Github</a>" +
         "</div>" +
         "<div class='work'>" +
