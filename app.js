@@ -1,7 +1,7 @@
 $(document).ready(function () {
   $("#about").on("click", function () {
     $("#display").html(
-      "<img id='aboutimg' src='jeff1.jpg' alt='Me'>" +
+      "<img id='aboutimg' src='headshot.jpg' alt='Me'>" +
         "<p class='about-text'>I am a Full Stack Web Developer with a passion for creative design and UX/UI. I build beautiful and functional applications and have designed applications for a variety of end-users. I have the drive to exceed client expectations by focusing on improving user experience and pushing the status quo of design.</p> " +
         "<p> My background in marketing allows me to connect with audiences and understand what engages them. Check out my projects to see examples of my work.”</p>" +
         "<p class='about-text'>I have done a variety of things throughout my life.  I graduated from the University of Wisconsin - Madison in 1993 with a BBA degree with majors in Finance and Risk Management.  I was in public accounting for 5 years where I earned the CPA designation,  I was a realtor for 13 years, and then I was a truck driver for 5 years.  I decided to get back to school following advice from some of my friends, to learn programming through the UCF Coding Bootcamp which will be completing in May this year.</p>" +
