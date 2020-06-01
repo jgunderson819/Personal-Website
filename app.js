@@ -38,9 +38,9 @@ $(document).ready(function () {
         "<a href='https://github.com/jgunderson819/sdn'>Social Distance Network Github</a>" +
         "</div>" +
         "<div class='work'>" +
-        "<a href='https://github.com/jgunderson819/liri-node-app2'><img id='portfolio-pic' src='liri.JPG' alt='Liri'>" +
-        "<h5>Liri node app</h5></a>" +
-        "<a href='https://github.com/jgunderson819/liri-node-app2'>Liri Github</a>" +
+        "<a href='http://ec2-18-209-223-99.compute-1.amazonaws.com/'><img id='portfolio-pic' src='liri.JPG' alt='Liri'>" +
+        "<h5>Sliphook Project</h5></a>" +
+        "<a href='https://github.com/jgunderson819/Slip-Hook-Project-V3'>Sliphook Github</a>" +
         "</div>" +
         "<div class='work'>" +
         "<a href='https://state-capital-trivia-game.herokuapp.com/'><img id='portfolio-pic' src='Triviagame.JPG' alt='Trivia Game'>" +
