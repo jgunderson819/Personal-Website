@@ -16,7 +16,7 @@
   <body>
     <header>
       <h1 class="display-4">Jeff Gunderson</h1>
-      <p id="lead">Aspiring Full-Stack Developer</p>
+      <p id="lead">Full-Stack Developer</p>
       <nav>
         <a href="https://www.linkedin.com/in/jeff-gunderson-15b203196"
           >LinkedIn</a
