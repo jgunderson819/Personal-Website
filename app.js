@@ -15,7 +15,7 @@ $(document).ready(function () {
         "<div class='work'>" +
         "<a href='https://mlipphardt.github.io/Fanfixx/'><img id='portfolio-pic' src='Fanfixx.JPG' alt='FANFIXX'>" +
         "<h5>FanFixx</h5></a>" +
-        '<a href="https://github.com/jgunderson819/Fanfixx2">Fanfixx Github</a>' +
+        '<a href="https://github.com/jgunderson819/Fanfixx-1">Fanfixx Github</a>' +
         "</div>" +
         "<div class='work'>" +
         "<a href='https://jgunderson819.github.io/The-Psychic-Game/'><img id='portfolio-pic' src='psychic2.jfif' alt='Psychic Game'>" +
